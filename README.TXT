@@ -4,5 +4,5 @@ https://www.greenfoot.org/scenarios/27928
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Coffe Home 
-AUTHORS: Yuuri Takeo Inoue
+AUTHORS: Yuuri Takeo , João Pedro Bispo, Isabelle Nobre, Mauricio Apolinario
 
